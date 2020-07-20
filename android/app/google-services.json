@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "432219799804",
+    "firebase_url": "https://magalis-4f7eb.firebaseio.com",
+    "project_id": "magalis-4f7eb",
+    "storage_bucket": "magalis-4f7eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432219799804:android:300dc7dff5e0eeff661779",
+        "android_client_info": {
+          "package_name": "com.example.untitled8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432219799804-g3m5ledhvhvi775f3m4p3o1bcsq81h50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpOq-PT1jlnw-vXA7MeTj3Lk48478FMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432219799804-g3m5ledhvhvi775f3m4p3o1bcsq81h50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
